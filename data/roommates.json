@@ -1,0 +1,20 @@
+[
+  {
+    "id": "a6c789de-e966-4914-9e5b-6e804baa89cd",
+    "nombre": "Madison Jones",
+    "debe": 0,
+    "recibe": 7500
+  },
+  {
+    "id": "137a42c7-6c36-428f-88b4-2bb7a61b1a83",
+    "nombre": "Christian Prescott",
+    "debe": 0,
+    "recibe": 7500
+  },
+  {
+    "id": "813450df-31b3-4a6c-b682-ff3cd40653d6",
+    "nombre": "Beverly Simpson",
+    "debe": 15000,
+    "recibe": 0
+  }
+]
